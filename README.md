@@ -3,4 +3,4 @@
 This is a posting application for blogs
 [*Microposts:
 
-Learn*](http://www.micropost.herokuapps.com)
+Learn*](http://www.kuski.herokuapp.com)
